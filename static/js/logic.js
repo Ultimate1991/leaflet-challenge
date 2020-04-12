@@ -70,7 +70,7 @@ function createMap(earthquakes) {
 
   // Define a baseMaps object to hold our base layers
   var baseMaps = {
-    "Satelite Map": satelitemap,
+    "Satellite Map": satellitemap,
     "Streets Map": streetmap
   };
 
